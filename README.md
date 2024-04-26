@@ -9,9 +9,9 @@
 
 **What is PDF and PyPDF2?** <br></br>
 
-PDF stands for Portable Document Format, is distinguished by its .pdf file extension. This format is predominantly utilized for document sharing due to its inherent property of preserving the original formatting, ensuring that documents appear consistent across various platforms, irrespective of the hardware, software, or operating system used. This consistency makes PDFs the format of choice for distributing, viewing, and ensuring the integrity of documents on a global scale.
+PDF stands for Portable Document Format, is distinguished by its .pdf file extension. This format is predominantly utilized for document sharing due to its inherent property of preserving the original formatting, ensuring that documents appear consistent across various platforms, irrespective of the hardware, software, or operating system used. This consistency makes PDFs the format of choice for distributing, viewing, and ensuring the integrity of documents on a global scale.<br></br>
 
-Originally developed by Adobe, PDF has transcended its proprietary origins to become an open standard, governed by the International Organization for Standardization (ISO). This transition to an ISO standard has further cemented PDF’s position as a cornerstone of digital document management, facilitating its adoption in a wide range of applications from academic publishing to business communications
+Originally developed by Adobe, PDF has transcended its proprietary origins to become an open standard, governed by the International Organization for Standardization (ISO). This transition to an ISO standard has further cemented PDF’s position as a cornerstone of digital document management, facilitating its adoption in a wide range of applications from academic publishing to business communications<br></br>
 
 
 **What is (NLP)Natural Language Processing**?<br></br>

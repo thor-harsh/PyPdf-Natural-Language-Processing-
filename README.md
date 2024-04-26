@@ -1,4 +1,4 @@
-# Project-Hadoop-43-Challenges-
+# PyPdf2-(NLP)
 
 <table>
   
@@ -22,7 +22,7 @@ NLP combines computational linguistics—rule-based modeling of human language�
 
 NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.<br></br>
 
-**Important Note: Go through the SMSSPamCollection.csv file before jumping to the code.**
+**Important Note: Go through the different pdf files and text files before jumping to the code.**
 
 
 </table>
